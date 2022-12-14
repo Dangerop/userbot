@@ -10,7 +10,7 @@ class Development(Config):
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
     DB_URI = "postgresql://postgres:lundxd@localhost:5432/catuserbot"
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
-    STRING_SESSION = "BQAzAzO5wd3Ie0gkztx9_6RAhQEbLQHW9U0RpRuiM99kXmq2pwLVHkUC88EdqMA-nEHW-EVJDjdSEyjmGV-bkkjKMUQQyiL0JBHxNygCuKgYsTqeLWErM9u-NplxmrkyU5fFewaRHZ1sZnrgJYZ3tRayQNCKALyGwqRWNLG4r4X9uuerBfDWSmaW_UbryAbD7tSWSKIk3LbEU-kTOxcaqELlNt0zdm9I1H4ZfiPmubT_U1jd8iFzhMWdC2D4qjMBWD7O3_4qt7yaLeJvDuMCdW0NHbh8g6MjXfzhIlR7z-TJ76U4Quh7QeCQWK8v7OmezHnoWQTqUeeLXFt_khF8grRbAAAAAVdHOjgA"
+    STRING_SESSION = "BQCtUggbJgvxh8yb5qKCc75L1E40sqIWu4XXcn5gdjuU_CsZeYs3X-jCxk-dj5PT-Ev71xQknoFgrZdtHtW7NQB7hCcYUhTcQtLEUY73Nrcq6jZojMRcHoB874ItkwCuEu0gZ6m2nTG_i8VsDzbyJPEMEO_wURC5CGjj9hmnQcgn2sAVbela0Zrbw8uQlfWq-iF1QAJp9M4d5dR2G4GkCWrsvqi4sMwuomfbaQaGCXyKyzdzTFbi43LZIeKMtYSabXDyrNVzd_dJDZZcX_L9fQ0ejmec7TCOluTRRu_cb-ttgAb9rJdo2tJMnwCrz7ejk1xm3wGksrQv7UdN244Xjud9AAAAAVdHOjgA"
     # create a new bot in @botfather and fill the following vales with bottoken
     TG_BOT_TOKEN = "5946619925:AAGYQQIdweo7CSohudEk17W9hMKcMFqwQWc"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
